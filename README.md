@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
 Hello, my name is Sara and I like bombocas.
